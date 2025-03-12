@@ -6,6 +6,7 @@ This project analyzes mock sales and marketing data for RedBull to uncover insig
 ## Repository Structure
 - **data/**: Contains the CSV files used in the analysis.
 - **notebooks/**: Contains the Google Colab notebook with the full analysis.
+- **images/**: Contains visualized data, ERD (Entity Relationship Diagram) of tables, and other related images.
 - **README.md**: Provides an overview of the project and instructions to run the notebook.
 
 ## How to Use
